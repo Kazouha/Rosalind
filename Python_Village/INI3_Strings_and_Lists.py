@@ -7,4 +7,4 @@ c = 97
 d = 102
 
 # Print result
-print(input_string[a:b+1]+ " " + input_string[c:d+1])
+print(input_string[a:b+1] + " " + input_string[c:d+1])
