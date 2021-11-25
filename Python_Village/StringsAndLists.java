@@ -9,7 +9,7 @@ public class StringsAndLists {
         int d = 102;
 
         // Print result
-        System.out.println(inputString.substring(a, b+1) + " " + inputString.subSequence(c, d+1));
+        System.out.println(inputString.substring(a, b+1) + " " + inputString.substring(c, d+1));
     }
     
 }
