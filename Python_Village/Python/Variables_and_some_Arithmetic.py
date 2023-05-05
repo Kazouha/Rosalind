@@ -2,8 +2,6 @@
 #Return: The integer corresponding to the square of the hypotenuse of the right triangle whose legs
 #have lengths a and b.
 
-import sys
-
 # Reads file content into list
 def read_file(file_name):
     return open(file_name, "r").readline().split()
