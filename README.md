@@ -6,7 +6,7 @@ Here is an overview of all problems in the [Python Village](https://rosalind.inf
 
 | Problem ID | Name | Python Solution | Java Solution |
 | :-----------: | :----: | :-------------: | :-------------: |
-| INI1 | Installing Python | Installing_Python.py | -- |
+| INI1 | [Installing Python](https://github.com/Kazouha/Rosalind/blob/63519e546881766bbe6e5c11440637db40b36909/Python_Village/Python/Installing_Python.py) | Installing_Python.py | -- |
 | INI2 | Variables and Some Arithmetic  | Variables_and_some_Arithmetic.py | VariablesAndArithmetic.java |
 | INI3 | Strings and Lists | Strings_and_Lists.py | StringsAndLists.java |
 | INI4 | Conditions and Loops | Conditions_and_Loops.py | ConditionsAndLoops.java|
