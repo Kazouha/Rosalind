@@ -11,5 +11,6 @@ def hyp_squared(a, b):
     return a**2 + b**2
 
 
-values = read_file("rosalind_ini2.txt")
-print(hyp_squared(int(values[0]), int(values[1])))
+values = [int(value) for value in read_file("rosalind_ini2.txt")]
+
+print(hyp_squared(values[0], values[1]))
