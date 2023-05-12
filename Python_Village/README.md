@@ -8,4 +8,4 @@ Here is an overview of all problems in the [Python Village](https://rosalind.inf
 | INI3 | Strings and Lists | [Strings_and_Lists.py](https://github.com/Kazouha/Rosalind/blob/47ac17b342b95a52a91001fd5ff782763fc3b4a1/Python_Village/Python/Strings_and_Lists.py) | StringsAndLists.java |
 | INI4 | Conditions and Loops | [Conditions_and_Loops.py](https://github.com/Kazouha/Rosalind/blob/440ffb60840b8d6a9d3153de4ff3df093bc04a9d/Python_Village/Python/Conditions_and_Loops.py) | ConditionsAndLoops.java|
 | INI5 | Working with Files | [Working_with_Files.py](https://github.com/Kazouha/Rosalind/blob/440ffb60840b8d6a9d3153de4ff3df093bc04a9d/Python_Village/Python/Working_with_Files.py) | WorkingWithFiles.java |
-| INI6 | Dictionaries | Dictionaries.py | Dictionaries.java
+| INI6 | Dictionaries | [Dictionaries.py](https://github.com/Kazouha/Rosalind/blob/ec83fc663ca43e85e110f38789317136b4f4f9ff/Python_Village/Python/Dictionaries.py) | Dictionaries.java
