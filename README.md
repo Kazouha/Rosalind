@@ -16,6 +16,8 @@ Here is an overview of all problems in the [Python Village](https://rosalind.inf
 &nbsp;
 
 ## Bioinformatics Stronghold
+Here is an overview of all problems in the [Bioinformatics Stronghold](https://rosalind.info/problems/list-view/) with links to the solutions in Python and Java.
+
 | Problem ID | Name | Python Solution | Java Solution |
 | :-----------: | :----: | :-------------: | :-------------: |
 | DNA | Counting DNA Nucleotides | Counting_Nucleotides.py | CountingNucleotides.java |
