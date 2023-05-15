@@ -3,8 +3,8 @@ Here is an overview of all problems in the [Bioinformatics Stronghold](https://r
 
 | Problem ID | Name | Python Solution | Java Solution |
 | :-----------: | :----: | :-------------: | :-------------: |
-| DNA | Counting DNA Nucleotides | Counting_Nucleotides.py | CountingNucleotides.java |
-| RNA | Transcribing DNA into RNA | DNA_to_RNA.py | DNAToRNA.java |
+| DNA | Counting DNA Nucleotides | [Counting_Nucleotides.py](https://github.com/Kazouha/Rosalind/blob/2da441f423e634b844c83403146bbb8381a318f7/Bioinformatics_Stronghold/Python/Counting_Nucleotides.py) | CountingNucleotides.java |
+| RNA | Transcribing DNA into RNA | [DNA_to_RNA.py](https://github.com/Kazouha/Rosalind/blob/2da441f423e634b844c83403146bbb8381a318f7/Bioinformatics_Stronghold/Python/DNA_to_RNA.py) | DNAToRNA.java |
 | REVC | Complementing a Strand of DNA | Complement.py | Complemet.java |
 | FIB | Rabbits and Recurrence Relations | Fib_Rabbits.py | FibRabbits.java |
 | GC | Computing GC Content | GC_Content.py | GCContent.java |
