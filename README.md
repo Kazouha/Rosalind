@@ -22,9 +22,9 @@ Here is an overview of all problems in the [Bioinformatics Stronghold](https://r
 | :-----------: | :----: | :-------------: | :-------------: |
 | DNA | Counting DNA Nucleotides | [Counting_Nucleotides.py](https://github.com/Kazouha/Rosalind/blob/2da441f423e634b844c83403146bbb8381a318f7/Bioinformatics_Stronghold/Python/Counting_Nucleotides.py) | CountingNucleotides.java |
 | RNA | Transcribing DNA into RNA | [DNA_to_RNA.py](https://github.com/Kazouha/Rosalind/blob/2da441f423e634b844c83403146bbb8381a318f7/Bioinformatics_Stronghold/Python/DNA_to_RNA.py) | DNAToRNA.java |
-| REVC | Complementing a Strand of DNA | Complement.py | Complemet.java |
-| FIB | Rabbits and Recurrence Relations | Fib_Rabbits.py | FibRabbits.java |
-| GC | Computing GC Content | GC_Content.py | GCContent.java |
+| REVC | Complementing a Strand of DNA | [Complement.py](https://github.com/Kazouha/Rosalind/blob/ef51e713b8b3a7ddb40cbe188f663f413062bfff/Bioinformatics_Stronghold/Python/Complement.py) | Complemet.java |
+| FIB | Rabbits and Recurrence Relations | [Fib_Rabbits.py](https://github.com/Kazouha/Rosalind/blob/ef51e713b8b3a7ddb40cbe188f663f413062bfff/Bioinformatics_Stronghold/Python/Fib_Rabbits.py) | FibRabbits.java |
+| GC | Computing GC Content | [GC_Content.py](https://github.com/Kazouha/Rosalind/blob/ef51e713b8b3a7ddb40cbe188f663f413062bfff/Bioinformatics_Stronghold/Python/GC_Content.py) | GCContent.java |
 | HAMM | Counting Point Mutations | Mutation_Count.py | MutationCount.java |
 | IPRB | Mendel's First Law | Mendel.py | Mendel.java |
 | PROT | Translating RNA into Protein | RNA_to_Protein.py | RNAToProtein.java |
